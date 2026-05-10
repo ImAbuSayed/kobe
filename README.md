@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kobe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Kobe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kobe/) |
+| **Get License** | [Obtain a Music License for Kobe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kobe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> কবে আসবে তুমি আমার এই বুকের ভেতর
+> পাগল করা নেশা তোমার, আমি যে কাতর
+> হারিয়ে যেতে চাই আজ তোমার সীমানায়
+> অন্ধকার এই রাতে মন শুধু তোমায় চায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
