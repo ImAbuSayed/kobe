@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kobe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Kobe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kobe/) |
+| **Get License** | [Commercial Licensing for Kobe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kobe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1831981837ea09c7539e5ed36a38e20f14200a66a5eb652a160816a65178ac9a` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
